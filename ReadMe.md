@@ -1,5 +1,5 @@
 # 🚔 Sobre mim:
-👨‍💻 Desenvolvedor em formação, apaixonado por tecnologia e soluções criativas.<br>🎓 Graduando em Ciência da Computação pela UFAPE (Universidade Federal do Agreste de Pernambuco), Brasil.<br>🤖 Explorando o mundo da Inteligência Artificial, Ciência de Dados e Desenvolvimento Web.<br>🚀 Atualmente focado em projetos com **Java, JavaScript Spring, Python, Rust e C**. Sempre aprendendo e experimentando novas tecnologias.<br>🛠️ Gosto de criar projetos que resolvam problemas reais e me ajudem a crescer como desenvolvedor.<br>📚 Compartilho minha jornada e aprendizados.<br>
+👨‍💻 Desenvolvedor em formação, apaixonado por tecnologia e soluções criativas.<br>🎓 Graduando em Ciência da Computação pela UFAPE (Universidade Federal do Agreste de Pernambuco), Brasil.<br>🤖 Explorando o mundo da Inteligência Artificial, Ciência de Dados e Desenvolvimento Web.<br>🚀 Atualmente focado em projetos com **Java(Spring), JavaScript, Python, Rust e C**. Sempre aprendendo e experimentando novas tecnologias.<br>🛠️ Gosto de criar projetos que resolvam problemas reais e me ajudem a crescer como desenvolvedor.<br>📚 Compartilho minha jornada e aprendizados.<br>
 
 
 ## 🌐 Socials:
