@@ -1,5 +1,4 @@
-# 🚔 About me:
-
+`Backend Development` `Data Science` `Machine Learning` `AI` `RAG Applications`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgribeiro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jorgealexandreribeiro195@gmail.com) 
