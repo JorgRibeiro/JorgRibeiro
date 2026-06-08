@@ -42,26 +42,6 @@ RAG system for querying municipal laws using document retrieval, embeddings and 
 
 ---
 
-### 🧩 Computer Science Fundamentals
-
-**DataStructuresInC**  
-Data structures and algorithms implemented as study and practice exercises.  
-`Data Structures` `Algorithms` `Memory` `Recursion` `Sorting`
-
-**LeagueOfComparison**  
-Comparative programming project focused on logic, data handling and implementation practice.  
-`Programming Logic` `Comparison` `Data Processing`
-
----
-
-### 🦀 Systems & Low-level Studies
-
-**Rust projects / studies**  
-Experiments and studies focused on systems programming concepts and language fundamentals.  
-`Systems Programming` `Memory Safety` `CLI` `Low-level Concepts`
-
----
-
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -78,4 +58,3 @@ Experiments and studies focused on systems programming concepts and language fun
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgribeiro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jorgealexandreribeiro195@gmail.com)
-```
