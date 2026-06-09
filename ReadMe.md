@@ -1,4 +1,4 @@
-# 👋 Jorge Ribeiro
+# Jorge Ribeiro
 
 `Backend Development` `Data Science` `Machine Learning` `AI` `RAG Applications`
 
