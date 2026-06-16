@@ -1,6 +1,6 @@
 # Jorge Ribeiro
 
-`Backend Development` `Data Science` `Machine Learning` `AI` `RAG Applications`
+`Backend Development` `Frontend Development` `Data Science` `Machine Learning` `AI` `RAG Applications`
 
 ---
 
