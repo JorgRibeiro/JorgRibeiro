@@ -40,6 +40,8 @@ Collection of practical Machine Learning projects and experiments.
 RAG system for querying municipal laws using document retrieval, embeddings and language models.  
 `RAG` `Semantic Search` `Document Retrieval` `Legal Documents` `Question Answering`
 
+**EyeOnFight**
+
 ---
 
 ## 💻 Tech Stack
